@@ -1,2 +1,3 @@
 # APS repositório
- Repositório criado para realização da atividade APS proposta no curso de Desenvolvimento WEB
+ Repositório criado no dia 13/03/205 para realização da atividade APS proposta no curso de Desenvolvimento WEB
+
